@@ -10,7 +10,7 @@ $(document).ready(function () {
         desc: "Espero que ya lo sepas bien.. Desde que te conoci cambiaste mi vida por completo."
     }, {
        title: "",
-       desc: "Me considero el chico mas feliz estando a tu lado, y bueno, llevamos 91 dias juntos(3M), pero para mi llevamos mucho mas. Entre mas pasa el tiempo mas me gustas y mas me enamoro de ti,  "
+       desc: "Me considero el chico mas feliz estando a tu lado, y bueno, llevamos 90 dias juntos, 12/13 semanas, 2160 horas, 129600 minutos, 7776000 segundos.. pero para mi llevamos mucho mas. Entre mas pasa el tiempo mas me gustas y mas me enamoro de ti,  "
     }, {
         title: "",
         desc: "Y sere sincero, estoy tan enamorado de ti que me pierdo mucho, te pienso todos los dias, y me pongo triste si no apareces para hablarme."
