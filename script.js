@@ -7,7 +7,7 @@ $(document).ready(function () {
         desc: ""
     }, {
         title: "¿Ya sabias que te amo mucho?",
-        desc: "En mis planes no esta lastimarte, quiero que vuelvas a creer en mi y confiar. quiero darte el trato que te mereces, nunca dudes de mi, desde que te conoci cambiaste mi vida por completo."
+        desc: "Espero que ya lo sepas bien.. Desde que te conoci cambiaste mi vida por completo."
     }, {
        title: "",
        desc: "Me considero el chico mas feliz estando a tu lado, y bueno, llevamos 91 dias juntos(3M), pero para mi llevamos mucho mas. Entre mas pasa el tiempo mas me gustas y mas me enamoro de ti,  "
